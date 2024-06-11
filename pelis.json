@@ -1,0 +1,38 @@
+[{
+    "title": "jurassic park",
+    "rating": 4,
+    "tags": ["aventura ciencia ficcion","ingles" ,"vieja"],
+    "año":1993
+    
+  },
+  {
+    "title": "rapido y furioso",
+    "rating": 3,
+    "tags": ["accion", "español", "vieja"],
+    "año":2001
+  },
+  {
+    "title": "el planeta de los simios",
+    "rating": 5,
+    "tags": ["acción ciencia ficcion","ingles", "vieja"],
+    "año":2001
+  },
+  {
+    "title":"oppenheimer",
+    "rating":6,
+    "tags":["suspenso","ingles","nueva"],
+    "año":2023
+  },
+  {
+    "title":"godzilla y kong",
+    "rating":5,
+    "tags":["ciencia ficcion","ingles","nueva"],
+    "año":2024
+  },
+  {
+    "title":"transformers:el desperatar de las bestias",
+    "rating":6,
+    "tags":["ciencia ficcion","ingles","nueva"],
+    "año":2023
+  }
+  ]
